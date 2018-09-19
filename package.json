@@ -1,5 +1,5 @@
 {
-  "name": "serverless-plugin-apigateway-stage-tags",
+  "name": "@silvermine/serverless-plugin-apigateway-stage-tags",
   "version": "0.1.0",
   "description": "Plugin for the SLS 1.x branch to provide support for adding API Gateway stage tags (not currently supported by CloudFormation)",
   "main": "src/index.js",

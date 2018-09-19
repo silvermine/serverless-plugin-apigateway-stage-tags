@@ -33,7 +33,7 @@ There are two steps:
 ### Install the Plugin as a Development Dependency
 
 ```bash
-npm install --save-dev --save-exact serverless-plugin-apigateway-stage-tags
+npm install --save-dev --save-exact @silvermine/serverless-plugin-apigateway-stage-tags
 ```
 
 ### Telling Serverless to Use the Plugin
@@ -42,7 +42,7 @@ Simply add this plugin to the list of plugins in your `serverless.yml` file:
 
 ```yml
 plugins:
-   - serverless-plugin-apigateway-stage-tags
+   - '@silvermine/serverless-plugin-apigateway-stage-tags'
 ```
 
 
