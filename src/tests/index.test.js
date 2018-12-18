@@ -18,7 +18,7 @@ function stubServerless() {
    };
 }
 
-describe('serverless-plugin-cloudfront-lambda-edge', function() {
+describe('serverless-plugin-apigateway-stage-tags', function() {
    var plugin; // eslint-disable-line no-unused-vars
 
    beforeEach(function() {
